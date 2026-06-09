@@ -19,7 +19,10 @@ A real-time collaborative expense management platform built with the MERN stack.
 - **Database:** MongoDB Atlas
 
 ## 📸 Screenshots
-(Add 4-5 screenshots of your app here)
+<img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/ae169947-aa4b-4d04-8edb-dffc0cdb1ecb" />
+<img width="1902" height="977" alt="image" src="https://github.com/user-attachments/assets/6f2096f5-7d3e-416a-b580-c47d6418028c" />
+
+
 
 ## 🔧 Local Setup
 
