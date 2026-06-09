@@ -3,8 +3,8 @@
 A real-time collaborative expense management platform built with the MERN stack.
 
 ## 🚀 Live Demo
-- Frontend: [your-vercel-url]
-- Backend API: [your-render-url]
+- Frontend: [https://smart-expense-splitter-newn.vercel.app/]
+- Backend API: [https://smart-expense-splitter-58qq.onrender.com]
 
 ## ✨ Features
 - Multi-method expense splitting (Equal, Exact, Percentage, Shares)
